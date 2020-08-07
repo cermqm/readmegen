@@ -1,2 +1,4 @@
-# readmegen
-HW#8 - readme generator
+My name is - Michael
+ 
+The title of this project is - readme generator
+ 

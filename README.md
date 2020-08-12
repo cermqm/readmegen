@@ -21,7 +21,8 @@ License - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
     The license used for this project is the MIT license.
 
 ### - Contributing
-    To suggest improvements email <mmink@michaelamink.com> or log an issue under the specific project in the GitHub repo - [GitHub](https://github.com/cermqm)
+    To suggest improvements email <mmink@michaelamink.com> or log an issue under the specific project in the GitHub repo - 
+[GitHub](https://github.com/cermqm)
 
 ### - Tests
     Test this project by running node index.js and answering the prompts.  You will then review the readme.md and determine if it meets your needs.
